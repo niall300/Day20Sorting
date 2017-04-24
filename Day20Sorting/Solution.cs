@@ -17,7 +17,7 @@ using System.Threading.Tasks;
 //where lastElement is the last element in the sorted array.
 namespace Day20Sorting
 {
-    class Program
+    class Solution
     {
         static void Main(string[] args)
         {
